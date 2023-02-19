@@ -8,7 +8,6 @@ As a computer science student, I am passionate about full-stack web development 
 
 *   🌍  I'm based in India! I'm not sure where you're based, but I'm happy to connect with you from anywhere in the world!
 *   🖥️  See my portfolio at [Github](http://github.com/Akhil378)
-*   ✉️  You can contact me at [akhildadi004@gmail.com.](mailto:akhildadi004@gmail.com.)
 *   🚀  I'm currently focused on building [a Reddit clone using Typescript and Next.js](http://github.com/Akhil378/reddit-clone)
 *   🧠  I'm learning Typescript, Next.js
 *   🤝  I'm open to collaborating on I'm open to collaborating on exciting new projects related to web development, especially those that involve Typescript or Next.js.
