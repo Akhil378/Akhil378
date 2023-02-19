@@ -24,6 +24,6 @@ As a computer science student, I am passionate about full-stack web development 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Akhil378"><img src="https://github-readme-stats-pi-cyan-68.vercel.app/api?username=Akhil378&count_private=true&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Akhil378's GitHub stats" /></a>
+<a href="http://www.github.com/Akhil378"><img src="https://github-readme-stats-pi-cyan-68.vercel.app/api?username=Akhil378&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Akhil's GitHub stats" /></a>
 
-<a href="https://github.com/Akhil378" align="left"><img src="https://github-readme-stats-pi-cyan-68.vercel.app/api/top-langs/?username=Akhil378&count_private=true&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Akhil378" align="left"><img src="https://github-readme-stats-pi-cyan-68.vercel.app/api/top-langs/?username=Akhil378&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&hide=cmake,html,css,procfile" alt="Top Languages" /></a>
