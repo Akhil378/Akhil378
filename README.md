@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akhil
 =============================================================================================================================
 
-Aspiring Full-Stack Web Developer and Electronic Music Producer with a Passion for Learning
+Aspiring Full-Stack Web Developer with a Passion for Learning.
 -------------------------------------------------------------------------------------------
 
 As a computer science student, I am passionate about full-stack web development and have gained experience by working on personal projects. In addition, I also have an interest in electronic music production.
@@ -11,7 +11,6 @@ As a computer science student, I am passionate about full-stack web development 
 *   🚀  I'm currently focused on building [a Reddit clone using Typescript and Next.js](http://github.com/Akhil378/reddit-clone)
 *   🧠  I'm learning Typescript, Next.js
 *   🤝  I'm open to collaborating on I'm open to collaborating on exciting new projects related to web development, especially those that involve Typescript or Next.js.
-*   ⚡  In addition to web development, I'm also passionate about electronic music production and love to explore the intersection of technology and art.
 ### Skills
 
 
