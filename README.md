@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full-Stack Web Developer with a Passion for Learning.
 -------------------------------------------------------------------------------------------
 
-As a computer science student, I am passionate about full-stack web development and have gained experience by working on personal projects. In addition, I also have an interest in electronic music production.
+As a computer science student, I am passionate about full-stack web development and have gained experience by working on personal projects. 
 
 *   🌍  I'm based in India! I'm not sure where you're based, but I'm happy to connect with you from anywhere in the world!
 *   🖥️  See my portfolio at [Github](http://github.com/Akhil378)
