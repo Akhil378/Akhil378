@@ -10,7 +10,7 @@ As a computer science student, I am passionate about full-stack web development 
 *   🖥️  See my portfolio at [Github](http://github.com/Akhil378)
 *   🚀  I'm currently focused on building [a Reddit clone using Typescript and Next.js](http://github.com/Akhil378/reddit-clone)
 *   🧠  I'm learning Typescript, Next.js
-*   🤝  I'm open to collaborating on I'm open to collaborating on exciting new projects related to web development, especially those that involve Typescript or Next.js.
+*   🤝  I'm open to collaborating on exciting new projects related to web development, data science, and AI.
 ### Skills
 
 
